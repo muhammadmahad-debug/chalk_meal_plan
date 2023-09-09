@@ -1,1 +1,1 @@
-Stripe Checkout for CHALK Performance Fitness
+Meal Plan Upsell for CHALK Performance Fitness
