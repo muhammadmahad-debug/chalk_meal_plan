@@ -1,1 +1,1 @@
-# chalk_meal_plan
+Stripe Checkout for CHALK Performance Fitness
